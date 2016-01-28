@@ -1,5 +1,5 @@
 var express = require('express');
-var cookie-session = require('cookie-session');
+var session = require('cookie-session');
 var router = express.Router();
 
 /* GET home page. */
